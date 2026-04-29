@@ -1,0 +1,5 @@
+qwerty 
+name Kamil
+group 6
+Fav OS MacOS
+github username iamnotkaidan
