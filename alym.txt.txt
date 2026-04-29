@@ -1,0 +1,4 @@
+name: Alym
+group: 6
+favorit os: windows
+GitHub username: kraiziHunter
